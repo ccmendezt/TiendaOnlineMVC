@@ -1,0 +1,54 @@
+/* style.css */
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+/* Estilos para los productos */
+.card {
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-footer {
+    background-color: #f8f9fa;
+}
+
+/* Estilos para el modal */
+.modal-content {
+    border-radius: 0;
+}
+
+/* Estilos para los formularios dentro del modal */
+.modal-body .form-group {
+    margin-bottom: 15px;
+}
+
+/* Estilos para el botón de buscar */
+#btnBuscar {
+    background-color: #17a2b8;
+    color: #ffffff;
+}
+
+/* Otros estilos personalizados */
+/* Agrega tus estilos personalizados aquí */
